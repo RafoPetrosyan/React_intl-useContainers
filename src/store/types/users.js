@@ -1,0 +1,7 @@
+export const SIGN_IN_REQUEST = 'SIGN_IN_REQUEST';
+export const SIGN_IN_SUCCESS = 'SIGN_IN_SUCCESS';
+
+export const USERS_LIST_REQUEST = 'USERS_LIST_REQUEST';
+export const USERS_LIST_SUCCESS = 'USERS_LIST_SUCCESS';
+
+export const SET_LOADER = 'SET_LOADER';
